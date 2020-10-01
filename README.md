@@ -1,0 +1,2 @@
+# NLP-Projects
+Book recommendation system using cosine similarity. The dataset contains information about book title, authors, publisher, user and their ratings.we have to find out what book you should be reading next ( there are very few free content recommendation systems that suggest books last I checked ), what are the details of every book you have read, create a word cloud from the books you want to read - all possible approaches to explore the dataset.
